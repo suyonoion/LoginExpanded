@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="LoginExpanded Settings">
+
+    <PreferenceCategory android:title="Nama">
+        <EditTextPreference android:inputType="textPassword" android:password="true" android:key="key_nama" android:title="Username ( default:suyonoion )" android:summary="Username / Nama" android:dialogTitle="Ganti username / nama"/>
+        <EditTextPreference android:inputType="textPassword" android:password="true" android:key="key_katasandi" android:title="Kata Sandi ( default:maaadgroup.com)" android:summary="Password / Kata Sandi" android:dialogTitle="Ganti password / katasandi"/>
+    </PreferenceCategory>
+
+</PreferenceScreen>

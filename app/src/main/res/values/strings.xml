@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LoginExpanded</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_expanded_terkunci">Expanded Terkunci !</string>
+    <string name="str_nama">Nama</string>
+    <string name="str_katakunci">Kata kunci</string>
+    <string name="str_buka">Buka</string>
+    <string name="str_batal_abaikan">Batal</string>
+    <string name="str_ganti_username_katakunci">\?</string>
+    <string name="str_logo_maaadgroup">Logo MaaadGroup.com</string>
+    <string name="str_desc_img_pp">Logo atau Foto Profile</string>
+    <string name="str_tombol_kunci">Kunci ?</string>
+    <string name="str_notifikasi">Notifications</string>
+    <string name="str_page2">page 2</string>
+    <string name="str_page3">page 3</string>
+    <string name="str_judul_alert_dialog">Pemberitahuan . . . !</string>
+    <string name="str_desc_icon_judul">icon judul</string>
+    <string name="str_tombol_ok">OK</string>
+    <string name="str_pesan_alertdialog">Pesan</string>
+</resources>
